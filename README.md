@@ -10,6 +10,12 @@ security.
 - **Built the AI-native platform from scratch.** It's our next-generation product: agents fill in
   and standardize master data from voice, text and documents, and create workflows and rules from
   a single prompt. I launched it at an industry event, and the waitlist filled up.
+- **Contributor to Apache NiFi:** 4 merged PRs that make Git-backed flow registries faster, with
+  fewer GitHub API calls, cached synchronization and nested flows loaded once
+  ([#11913](https://github.com/apache/nifi/pull/11913),
+  [#11925](https://github.com/apache/nifi/pull/11925),
+  [#11926](https://github.com/apache/nifi/pull/11926),
+  [#11931](https://github.com/apache/nifi/pull/11931)).
 - **Opened the platform to AI agents and ERPs** with an MCP server, a public API and no-code SAP
   integrations.
 - **Cut AWS costs by 67% in four months** by right-sizing databases and servers to real usage,
